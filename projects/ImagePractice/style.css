@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.block{
+    border: 10px solid;
+    padding: 20px;
+    font-size: 20px;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+}
+
+#bl1{
+    background-color: aquamarine;
+}
+#bl2{
+    margin-left: 33%;
+    border-bottom: 20px solid;
+    border-top: 20px solid;
+    background-color: yellow;
+}
+#bl3{
+    align-content: center;
+    background-color: brown;
+}
